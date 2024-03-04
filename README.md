@@ -27,3 +27,4 @@ pytest -v src/area
 ## Slides
 
 - [1 - Engenharia de Software](/slides/01-Engenharia%20de%20software.pdf)
+- [2 - Ciclo de vida e processo de desenvolvimento](/slides/02-Ciclo-de-vida.pdf)
