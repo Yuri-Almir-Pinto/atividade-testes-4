@@ -18,7 +18,7 @@ pip install -r requirements.txt
 code .
 ```
 
-3. Rodar pytest na pasta src/area
+3. Executa somente os testes contidos em `src/area`:
 
 ```bash
 pytest -v src/area
