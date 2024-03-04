@@ -28,3 +28,6 @@ pytest -v src/area
 
 - [1 - Engenharia de Software](/slides/01-Engenharia%20de%20software.pdf)
 - [2 - Ciclo de vida e processo de desenvolvimento](/slides/02-Ciclo-de-vida.pdf)
+- [3 - Métricas de software](/slides/03-Metricas-de-software.pdf)
+- [4 - Teste de software ](/slides/04-Teste-de-software.pdf)
+- [5 - Pytest](/slides/05-Pytest.pdf)
