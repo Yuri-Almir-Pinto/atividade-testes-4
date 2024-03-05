@@ -30,4 +30,4 @@ pytest -v src/area
 - [2 - Ciclo de vida e processo de desenvolvimento](/slides/02-Ciclo-de-vida.pdf)
 - [3 - Métricas de software](/slides/03-Metricas-de-software.pdf)
 - [4 - Teste de software ](/slides/04-Teste-de-software.pdf)
-- [5 - Pytest](/slides/05-Pytest.pdf)
+- [5 - Pytest](https://docs.google.com/presentation/d/1c4cixVpnpSZkE81CkfZJOg6kqpXhDrjXTZPKW3MbGmQ/edit?usp=sharing)
