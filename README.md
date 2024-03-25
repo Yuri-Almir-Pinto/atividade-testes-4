@@ -41,7 +41,6 @@ Instalar plugin pytest-cov
 ```bash
 pip install pytest-cov
 ```
-
 Avalia a cobertura dos testes:
 ```bash
 pytest --cov=. src/
@@ -64,3 +63,8 @@ src/npc/npc_player_test.py       7      0   100%
 TOTAL                           25      0   100%
 
 ```
+
+# Projetos python
+- executar teste de cobertura de código
+- executar flake8
+
